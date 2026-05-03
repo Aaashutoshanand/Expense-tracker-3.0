@@ -23,3 +23,24 @@ A menu-driven command-line expense tracker built using Python and CSV file handl
 
 ```bash
 python task4.py
+```
+## 👨‍💻 Author
+
+Ashutosh anand
+
+---
+
+## 📬 Contact
+
+* GitHub: https://github.com/Aaashutoshanand
+* Email: [hshevsyhe@gmail.com](mailto:hshevsyhe@gmail.com)
+
+---
+
+## ⭐ Support
+
+If you like this project:
+
+* ⭐ Star the repo
+* 🍴 Fork it
+* 📢 Share it
